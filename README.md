@@ -1,2 +1,5 @@
-# renderer-learn
-Attempting to make a renderer in the hopes of learning new things in the process.
+<h1>A Renderer</h1>
+
+Behold my attempts at a renderer.
+
+Following tutorial: https://github.com/ssloy/tinyrenderee/wiki
