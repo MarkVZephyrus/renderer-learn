@@ -46,6 +46,7 @@ void line_dep(int x0, int y0, int x1, int y1, TGAImage &image, TGAColor color){	
  *  Cooler way. 
  *  The derror2 variable is an approximiation of the slope.
  *  As of currently I do not fully understand this, when I do I'll change this.
+ *
  * */
 void line(int x0, int y0, int x1, int y1, TGAImage &image, TGAColor color) { 
     bool steep = false; 
