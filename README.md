@@ -2,4 +2,4 @@
 
 Behold my attempts at a renderer.
 
-Following tutorial: https://github.com/ssloy/tinyrenderee/wiki
+Following tutorial: https://github.com/ssloy/tinyrenderer/wiki
